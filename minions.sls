@@ -1,4 +1,4 @@
-fth_minions:
+minions:
   apache_test1: 
     ipaddress: 10.21.28.85
     hostname: apache_test1.nutanix.local
