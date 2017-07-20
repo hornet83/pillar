@@ -1,2 +1,2 @@
 fth_master:
-  fthmasta: 192.168.178.13
+  fthmasta: 10.21.28.81

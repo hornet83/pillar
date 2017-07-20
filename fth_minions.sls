@@ -1,24 +1,25 @@
 fth_minions:
   apache_test1: 
-    ipaddress: 192.168.178.15
-    hostname: apachet1.test.stefan.co.nz
+    ipaddress: 10.21.28.85
+    hostname: apache_test1.nutanix.local
     numvcpus: 1
     numvcpucores: 1
-    memory_mb: 1024
-  application_test1: 
-    ipaddress: 192.168.178.16
-    hostname: appt1.test.stefan.co.nz
+    memory_mb: 2048
+  appserver_test1: 
+    ipaddress: 10.21.28.87
+    hostname: appserver_test1.nutanix.local
     numvcpus: 1
     numvcpucores: 1
-    memory_mb: 1024
+    memory_mb: 2048
   apache_prod1: 
-    ipaddress: 192.168.178.17
-    hostname: apachep1.test.stefan.co.nz
+    ipaddress: 10.21.28.86
+    hostname: apache_test2.nutanix.local
     numvcpus: 1
     numvcpucores: 1
-    memory_mb: 1024
-  application_prod1: 
-    ipaddress: 192.168.178.18
-    hostname: appp1.test.stefan.co.nz
+    memory_mb: 2048
+  appserver_prod1: 
+    ipaddress: 10.21.28.88
+    hostname: appserver_test2.nutanix.local
     numvcpus: 1
-    memory_mb: 1024
+    numvcpucores: 1
+    memory_mb: 2048
