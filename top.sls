@@ -1,4 +1,4 @@
 base:
   '*':
     - master
-    - minions
+    - test_minions
