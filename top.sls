@@ -1,4 +1,6 @@
 base:
   '*':
+    - env
     - master
-    - test_minions
+    - minions
+    - schedule
