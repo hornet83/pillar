@@ -4,3 +4,4 @@ base:
     - master
     - minions
     - schedule
+    - saltmine
