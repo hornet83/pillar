@@ -1,4 +1,4 @@
 schedule:
    highstate:
       function: state.highstate
-      seconds: 1200
+      seconds: 600

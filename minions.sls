@@ -7,20 +7,28 @@ infra:
     numvcpus: 1
     numvcpucores: 1
     memory_mb: 2048
-
-test:
-  oraclet1: 
+  artifacp1:
     numvcpus: 1
     numvcpucores: 1
     memory_mb: 2048
+  gitp1:
+    numvcpus: 1
+    numvcpucores: 1
+    memory_mb: 2048
+
+test:
+#  oraclet1: 
+#    numvcpus: 1
+#    numvcpucores: 1
+#    memory_mb: 2048
   appservert1: 
     numvcpus: 1
     numvcpucores: 1
     memory_mb: 2048
-  oraclet2: 
-    numvcpus: 1
-    numvcpucores: 1
-    memory_mb: 2048
+#  oraclet2: 
+#    numvcpus: 1
+#    numvcpucores: 1
+#    memory_mb: 2048
   appservert2: 
     numvcpus: 1
     numvcpucores: 1
