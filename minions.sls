@@ -51,3 +51,21 @@ prod:
     numvcpus: 1
     numvcpucores: 1
     memory_mb: 2048
+
+kube:
+  kubemaster:
+    numvcpus: 2
+    numvcpucores: 4
+    memory_mb: 4096
+  kubeworker1:
+    numvcpus: 2
+    numvcpucores: 4
+    memory_mb: 4096
+  kubeworker2:
+    numvcpus: 2
+    numvcpucores: 4
+    memory_mb: 4096
+  kubeworker3:
+    numvcpus: 2
+    numvcpucores: 4
+    memory_mb: 4096
