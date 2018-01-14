@@ -2,7 +2,7 @@ env:
    clusterip: 10.21.9.37
    domain: nutanix.local
    login: admin
-   password: nx2Tech386!
+   password: xxxxx
    template: centos-clone-app
    template-oracle: centos-clone-ora
    internal_dns: 10.21.9.105
